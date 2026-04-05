@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u0087 counter;\u0087 esc_online_flags;\u0087 esc_armed_flags;\u0086 esc_count;\u0086 esc_connectiontype;esc_report[12] esc;",
+		"fields_total_length": 151,
+		"orb_ids": [49],
+		"main_orb_id": 49,
+		"dependencies": ["px4/EscReport"],
+		"name": "px4/EscStatus"
+}

@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u0089 timestamp_sample;\u008b lat;\u008b lon;\u008a alt;\u008a eph;\u008a epv;\u0086 id;\u0086 source;\u0086 lat_lon_reset_counter;\u0086[1] _padding0;",
+		"fields_total_length": 174,
+		"orb_ids": [18],
+		"main_orb_id": 18,
+		"dependencies": [],
+		"name": "px4/AuxGlobalPosition"
+}

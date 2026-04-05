@@ -1,0 +1,16 @@
+# ninja log v5
+1	36	1775292699913575394	ucdr-prefix/src/ucdr-stamp/ucdr-mkdir	ed36b7bbc270d956
+86	134	1775292700009571588	ucdr-prefix/src/ucdr-stamp/ucdr-update	7a3b4d2a67d539ac
+1	36	1775292699913575394	/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/ucdr-prefix/src/ucdr-stamp/ucdr-mkdir	ed36b7bbc270d956
+36	86	1775292699964573372	ucdr-prefix/src/ucdr-stamp/ucdr-download	6fbaa7253b5df8fd
+36	86	1775292699964573372	/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/ucdr-prefix/src/ucdr-stamp/ucdr-download	6fbaa7253b5df8fd
+86	134	1775292700009571588	/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/ucdr-prefix/src/ucdr-stamp/ucdr-update	7a3b4d2a67d539ac
+134	165	1775292700043570236	ucdr-prefix/src/ucdr-stamp/ucdr-patch	128cc09d724d612e
+134	165	1775292700043570236	/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/microcdr/src/microcdr-build/ucdr-prefix/src/ucdr-stamp/ucdr-patch	128cc09d724d612e
+1	53	1775292700200563992	CMakeFiles/microcdr.dir/src/c/types/string.c.o	fcf99d5ad93a7f82
+1	222	1775292700369557271	CMakeFiles/microcdr.dir/src/c/common.c.o	86b89975bf20995f
+3	395	1775292700545550272	CMakeFiles/microcdr.dir/src/c/types/array.c.o	ac4151e890769e9b
+4	462	1775292700612547607	CMakeFiles/microcdr.dir/src/c/types/sequence.c.o	cd24d9542c003126
+1	738	1775292700889536592	CMakeFiles/microcdr.dir/src/c/types/basic.c.o	d02cbb27f8805f20
+738	799	1775292700949534205	libmicrocdr.a	fb717557b3b9583
+0	24	0	CMakeFiles/install.util	4263be873428322

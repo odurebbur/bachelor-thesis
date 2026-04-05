@@ -1,0 +1,1 @@
+cmd='/usr/bin/cmake;-DCMAKE_INSTALL_PREFIX=/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/OpticalFlow/install;-GNinja;-S;<SOURCE_DIR><SOURCE_SUBDIR>;-B;<BINARY_DIR>'

@@ -1,0 +1,8 @@
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/lib/libmicrocdr.a
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/include/ucdr/visibility.h
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/include/ucdr/microcdr.h
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/include/ucdr/config.h
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/share/microcdr/cmake/microcdrTargets.cmake
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/share/microcdr/cmake/microcdrTargets-relwithdebinfo.cmake
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/share/microcdr/cmake/microcdrConfig.cmake
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/uxrce_dds_client/src/libmicroxrceddsclient_project-build/temp_install/microcdr-2.0.1/share/microcdr/cmake/microcdrConfigVersion.cmake

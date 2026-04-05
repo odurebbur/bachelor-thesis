@@ -1,0 +1,10 @@
+
+
+{
+		"fields": "\u0089 timestamp;\u0087 length;\u0086 firmware;\u0086 index;\u0086[48] data;\u0086[4] _padding0;",
+		"fields_total_length": 104,
+		"orb_ids": [45],
+		"main_orb_id": 45,
+		"dependencies": [],
+		"name": "px4/EscEepromRead"
+}

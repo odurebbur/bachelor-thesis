@@ -1,0 +1,13 @@
+# Target labels
+ gz
+# Source files and their labels
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/simulation/gz_bridge/CMakeFiles/gz
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/simulation/gz_bridge/CMakeFiles/gz.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/src/modules/simulation/gz_bridge/CMakeFiles/gz-complete.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-build.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-configure.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-download.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-install.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-mkdir.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-patch.rule
+/home/isabella-lopiano/PX4-Autopilot/build/px4_sitl_default/external/Stamp/gz/gz-update.rule
